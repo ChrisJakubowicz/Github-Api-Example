@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exercise</string>
+    <string name="top_starred_repos">Top 100 Starred Github Repos</string>
+    <string name="github_star">Github Star</string>
+</resources>
