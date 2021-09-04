@@ -1,4 +1,4 @@
-Brightwheel Android Exercise
+Github API Example
 =================
 
 Please open this project in the latest stable version of Android Studio (Arctic Fox 2020.3.1 Patch 2 as of now).
